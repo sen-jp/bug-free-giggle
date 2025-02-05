@@ -1,0 +1,6 @@
+PyQt6
+easyocr
+numpy
+pynput
+pyautogui
+pillow
