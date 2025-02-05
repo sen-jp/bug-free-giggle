@@ -1,8 +1,8 @@
-# Lumina OCR Assistant
+# Lunaria | Next-gen
 
-Lumina is a specialized OCR (Optical Character Recognition) tool designed for real-time text detection and input automation, optimized for gaming applications.
+Lunaria is a specialized macro designed for Deepwoken, a Roblox game.
 
-## 🌟 Features
+## Features
 
 ### Screen Monitoring
 - **Area Selection**: Click and drag to select your target screen region
@@ -11,7 +11,7 @@ Lumina is a specialized OCR (Optical Character Recognition) tool designed for re
 
 ### OCR Engine
 - **Real-time Detection**: Continuous monitoring of selected area
-- **EasyOCR Integration**: High-accuracy character recognition
+- **QuickOCR Integration**: High-accuracy character recognition
 - **Optimized Detection**: Specifically tuned for 'C' and 'V' characters
 
 ### Visual Feedback
@@ -24,11 +24,12 @@ Lumina is a specialized OCR (Optical Character Recognition) tool designed for re
 - **Smart Delay**: Optimized typing intervals
 - **Reliable Input**: Uses pynput for consistent keyboard simulation
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 - Python 3.8+
-- Dependencies:
+
+### Dependencies:
   ```
   PyQt6
   easyocr
@@ -56,11 +57,11 @@ Or just run the executable.
 
 ## 📄 License
 
-[MIT License](LICENSE)
+[MIT License]()
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request or join our [Discord](https://discord.gg/29tEyhkeCJ)
 
 ---
 Obviously the links won't work as of now since Lunaria is not yet public.
